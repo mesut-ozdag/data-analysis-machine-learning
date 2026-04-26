@@ -1,4 +1,4 @@
-# Data Analysis and Applied Machine Learning Algorithms
+# Data Analysis and Applied Supervised Machine Learning Algorithms
 This repository serves as a complete learning and experimentation hub for data analysis and machine learning.
 
 ## Purpose
